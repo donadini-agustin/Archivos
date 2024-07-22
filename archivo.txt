@@ -1,3 +1,6 @@
 hola
 el punto blanco no aparece
 guardando
+un
+nuevo 
+cambio desde local
